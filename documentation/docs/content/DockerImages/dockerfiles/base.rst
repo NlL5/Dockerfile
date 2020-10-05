@@ -66,7 +66,7 @@ File/Directory                                        Description
 ``/opt/docker/etc/supervisor.conf``                   Main supervisord configuration file
 ``/opt/docker/etc/supervisor.d/*.conf``               Modular service configuration files for supervisord
                                                       (will be included automatically)
-``/opt/docker/bin/servide.d/*.sh``                    Service scripts if services needs more than just a single command
+``/opt/docker/bin/service.d/*.sh``                    Service scripts if services needs more than just a single command
                                                       line for startup
 ====================================================  ==================================================================
 
